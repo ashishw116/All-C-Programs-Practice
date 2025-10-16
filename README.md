@@ -21,13 +21,9 @@ It includes programs covering **basic concepts, loops, arrays, functions, string
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/C_Programs_Apprenticeship.git
+    git clonehttps://github.com/ashishw116/All-C-Programs-Practice.git
     ```
-2. Navigate to the folder you want:
-    ```bash
-    cd C_Programs_Apprenticeship/Arrays
-    ```
-3. Compile and run the program:
+2. Compile and run the program:
     ```bash
     gcc program_name.c -o program_name
     ./program_name
@@ -43,6 +39,6 @@ This repository is for personal learning and reference. Feel free to explore the
 
 ## Author
 
-**Your Name** – Apprentice Programmer  
-Email: your.email@example.com
+**Your Name** – Ashish Wagh
+Email: ashishw2006@gmail.com
 
